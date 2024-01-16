@@ -5,7 +5,7 @@
 ### Software and Tools Requirements
 
 1. [Github Account](https://github.com/)
-2. [Railway App Account](https://railway.app/)
+2. [Render Account](https://railway.app/)
 3. [VSCode IDE](https://code.visualstudio.com/)
 4. [Git CLI](https://git-scm.com/download/win)
 
